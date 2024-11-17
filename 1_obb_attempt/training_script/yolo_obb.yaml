@@ -1,0 +1,7 @@
+path: '/content/gdrive/MyDrive/SHARED_FOLDER/1_obb_attempt'  # dataset root dir
+train: train  # train images (relative to 'path')
+val: val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: crane

@@ -1,0 +1,10 @@
+accuracy:
+98.24%
+mean confidence for correctly labelled images:
+constr       0.007643
+no_constr    0.992357
+dtype: float64
+mean confidence for falsely labelled images:
+constr       0.763216
+no_constr    0.236784
+dtype: float64
